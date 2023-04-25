@@ -75,6 +75,7 @@ button:active {
     .cal{
         height: 80%;
         width: 90%;
+        color: #000;
     }
 }
 
