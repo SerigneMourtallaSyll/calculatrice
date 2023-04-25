@@ -12,6 +12,7 @@ body{
     align-items: center;
     font-family: sans-serif;
     padding: 3%;
+    color: black;
 }
 
 .cal{
@@ -53,6 +54,7 @@ button:active {
     border-radius: 10px 10px 10px 10px;
     cursor: pointer;
     font-size: 20px;
+    color: black;
 }
 
 .keys .equal{
@@ -76,6 +78,10 @@ button:active {
         height: 80%;
         width: 90%;
         color: #000;
+    }
+    
+    .keys .bttn{
+        color: black;
     }
 }
 
