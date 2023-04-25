@@ -22,6 +22,7 @@ body{
     width: 30%;
     border-radius: 10px 10px 10px 10px;
     padding: 2%;
+    color: black;
 }
 .screen{
     height: 30%;
@@ -72,7 +73,8 @@ button:active {
 
 @media screen and (min-width:340px) and (max-width:500px) {
     .cal{
-        width: 70%;
+        height: 80%;
+        width: 90%;
     }
 }
 
